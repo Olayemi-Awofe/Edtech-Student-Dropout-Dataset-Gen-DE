@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "EduTech_DropOut_Data_Generation"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bcead8da-ba61-a2cb-452b-97dc8154e2e4"
+  }
+}
